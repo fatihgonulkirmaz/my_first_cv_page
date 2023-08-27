@@ -1,0 +1,57 @@
+body{
+    background-color: #293233;
+}
+.color-white{
+    color:white;
+}
+.width-full{
+    width: 100%;
+}
+.rounded-full{ /*resme radüs verdik*/
+    border-radius: 100%;
+}
+.bg-white{
+    background-color: white;
+}
+.w-3{
+    width: 40%;
+}
+.p-6{
+    padding: 18px;
+}
+.mt-2{ /*sütublar arası boşluk bırakmak için kullanılır (margin top)*/
+    margin-top: 16px;
+}
+.rounded-2xl{
+    border-radius: 30px;
+}
+.space-x-8 {
+    margin-left: 44px;
+  }
+.space-y-8 {
+    margin-bottom: 22px;
+  }
+.height-full{
+    height: 100%;
+}
+.flex{
+    display: flex;
+}
+.flex-wrap{ /*içeriklerin taşması durumunda yeni bir satıra geçrek düzenin bozulmasını engeller*/
+    flex-wrap: wrap;
+}
+.justify-content-center{ /*içerikler yatay (ana eksen) yönde merkezlemeyi sağlar */
+    justify-content: center;
+}
+.justify-content-between{ /*içerikler yatay (ana eksen) yönde merkezlemeyi sağlar */
+    justify-content: space-between;
+}
+.align-items-center{/*içerikler dikey olarak sayfanın yüksekliği boyunca ortalanır*/
+    align-items: center;
+}
+.flex-coll{ /*içerikler yukarıdan aşağıya sıralanır*/
+    flex-direction: column;
+}
+
+
+
